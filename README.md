@@ -26,3 +26,10 @@
              
              
 ![runnin_demo1](https://user-images.githubusercontent.com/13570487/74613200-91069e00-50c9-11ea-8441-3dafd7f32f77.png)
+
+
+   - - - -
+   
+ * Author: Ehsan Kourkchi <ekourkchi@gmail.com>
+ * Date: Fall 2013
+ * Feel free to distribute and modify for a better performance
